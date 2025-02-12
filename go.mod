@@ -1,5 +1,5 @@
-module github.com/go-chi/chi/v5
+module github.com/Chi-Go/chi
 
 // Chi supports the four most recent major versions of Go.
 // See https://github.com/go-chi/chi/issues/963.
-go 1.20
+go 1.24

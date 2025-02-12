@@ -1,3 +1,6 @@
+github.com/Chi-Go/docgen v1.3.1/go.mod h1:epVOxj/9fpmvYP+C/gXiqiv/sqHErOKzXDj3Ejf/JE4=
+github.com/Chi-Go/render v1.0.5/go.mod h1:RmWzMr26CFOJezvDqhGHDRdm/C/FA6F7D52U2/jTmsE=
+github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
 github.com/go-chi/chi/v5 v5.0.1 h1:ALxjCrTf1aflOlkhMnCUP86MubbWFrzB3gkRPReLpTo=
 github.com/go-chi/chi/v5 v5.0.1/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
 github.com/go-chi/docgen v1.2.0 h1:da0Nq2PKU9W9pSOTUfVrKI1vIgTGpauo9cfh4Iwivek=

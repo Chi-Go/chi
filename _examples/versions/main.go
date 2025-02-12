@@ -10,13 +10,13 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-chi/chi/v5"
-	"github.com/go-chi/chi/v5/_examples/versions/data"
-	v1 "github.com/go-chi/chi/v5/_examples/versions/presenter/v1"
-	v2 "github.com/go-chi/chi/v5/_examples/versions/presenter/v2"
-	v3 "github.com/go-chi/chi/v5/_examples/versions/presenter/v3"
-	"github.com/go-chi/chi/v5/middleware"
-	"github.com/go-chi/render"
+	"github.com/Chi-Go/chi"
+	"github.com/Chi-Go/chi/_examples/versions/data"
+	v1 "github.com/Chi-Go/chi/_examples/versions/presenter/v1"
+	v2 "github.com/Chi-Go/chi/_examples/versions/presenter/v2"
+	v3 "github.com/Chi-Go/chi/_examples/versions/presenter/v3"
+	"github.com/Chi-Go/chi/middleware"
+	"github.com/Chi-Go/render"
 )
 
 func main() {

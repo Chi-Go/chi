@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/http/pprof"
 
-	"github.com/go-chi/chi/v5"
+	"github.com/Chi-Go/chi"
 )
 
 // Profiler is a convenient subrouter used for mounting net/http/pprof. ie.
